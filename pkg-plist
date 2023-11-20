@@ -1,0 +1,10 @@
+bin/octez-accuser-PtNairob
+bin/octez-accuser-Proxford
+bin/octez-admin-client
+bin/octez-baker-PtNairob
+bin/octez-baker-Proxford
+bin/octez-client
+bin/octez-codec
+bin/octez-node
+bin/octez-proxy-server
+bin/octez-signer
